@@ -1,0 +1,14 @@
+===== Task 05 : Expressions Demo =====
+
+Hour                  : 9
+Is peak hour?         : true
+Base fare (Outer)     : 3000 paise
+After 20% peak        : 3600 paise
+After 25% concession  : 2700 paise
+
+x + y * 2             = 11
+(x + y) * 2           = 16
+10 / 3                = 3
+10 % 3                = 1
+-10 / 3               = -3
+-10 % 3               = -1

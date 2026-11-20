@@ -1,0 +1,14 @@
+===== Task 08 : Cost Comparison (B3) =====
+
+N bills     Virtual (ms)  switch (ms)
+1 000       <1            <1
+1 000 000   12            9
+10 000 000  118           91
+
+Invalid %   Return-code   Exception
+0 %         35            36
+1 %         36            48
+50 %        40            310
+
+Conclusion: virtual calls are open for extension;
+exceptions are fine when error rate < 1 %.

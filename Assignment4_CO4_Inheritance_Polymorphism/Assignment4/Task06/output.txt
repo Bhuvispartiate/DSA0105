@@ -1,0 +1,10 @@
+===== Task 06 : Vehicle Rental Fleet =====
+
+BIKE-01 rented
+CAR-101 rented
+EV-55 rented
+CAR-101 returned. Charge = Rs 4800.00
+BIKE-01 returned. Charge = Rs 150.00
+EV-55 returned. Charge = Rs 3920.00
+EBUS-7 rented
+EBUS-7 returned. Charge = Rs 5080.00

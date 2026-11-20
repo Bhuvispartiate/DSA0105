@@ -1,0 +1,12 @@
+===== Task 10 : Accumulator Type Comparison =====
+
+Assuming average fare = 2000 paise (Rs 20)
+
+Journeys     Expected (paise)   long long   int            double
+--------------------------------------------------------------------
+20 000       40 000 000         exact       exact          exact
+500 000      1 000 000 000      exact       overflow risk  still exact
+3 000 000    6 000 000 000      exact       overflow       loses low bits
+
+INT_MAX = 2147483647
+Conclusion : only long long remains exact for network-scale totals.

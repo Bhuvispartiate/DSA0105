@@ -1,0 +1,11 @@
+===== Q7 : Circular-Buffer Savings Account =====
+
+Account 987654  Balance: 2600.00
+Last 5 transactions (newest last):
+  +500.00
+  -250.00
+  +100.00
+  -50.00
+  +300.00
+
+Insertion cost is O(1) regardless of history length.

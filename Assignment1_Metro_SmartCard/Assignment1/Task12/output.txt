@@ -1,0 +1,10 @@
+===== Task 12 : Extended Fare Logic =====
+
+Airport off-peak  : 6000 paise
+Airport peak      : 7200 paise
+Airport weekend   : 5400 paise
+(weekend + peak both true → only weekend discount applied)
+
+MonthlyPass covers Inner?  true
+MonthlyPass covers Outer?  false
+MonthlyPass covers Airport?false

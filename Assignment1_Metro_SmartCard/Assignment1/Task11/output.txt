@@ -1,0 +1,13 @@
+===== Task 11 : Final Design Recommendation =====
+
+Recommended design choices:
+
+  Money representation : long long (paise)
+  Zones                : enum class Zone + constexpr array
+  Constants            : constexpr for all fares and limits
+  Card                 : SmartCard with private balance
+  Peak test            : parenthesised boolean expression
+  Control flow         : switch (or array) for base fare
+
+Fare revision requires changing only one entry in BASE_PAISE.
+The design scales from 20 000 to 3 000 000 journeys without overflow.

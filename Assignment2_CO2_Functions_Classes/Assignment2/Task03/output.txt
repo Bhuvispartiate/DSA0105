@@ -1,0 +1,7 @@
+===== Q3 : Overload Resolution =====
+
+charge(2)            = 0.1
+charge(2.0)          = 100
+charge(2.5, true)    = 187.5
+charge(2.5, true, true) = 287.5
+charge(p)            = 225

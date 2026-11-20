@@ -1,0 +1,7 @@
+===== Q4 : Savings Account Mini-Statement =====
+
+Account 123456  Balance: 1450.00
+Last 3 transactions:
+  +500.00
+  -200.00
+  +150.00

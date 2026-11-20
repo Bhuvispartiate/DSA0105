@@ -1,0 +1,6 @@
+===== Q6 : Friend & Inline Functions =====
+
+Time A : 9:15
+Time B : 12:40
+Minutes between : 205
+A earlier than B? true

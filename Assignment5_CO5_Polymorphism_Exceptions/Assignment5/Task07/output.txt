@@ -1,0 +1,6 @@
+===== Task 07 : Error Conditions =====
+
+ok 100
+caught negative: negative amount
+[log] exceeds cover
+caught too large: exceeds cover

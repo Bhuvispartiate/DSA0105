@@ -1,0 +1,11 @@
+===== Task 09 : Final Engineering Decision =====
+
+Production choice for 200 000 bills/day, error rate < 1 %:
+
+  • Polymorphic Bill hierarchy (open for new types)
+  • Abstract Payer hierarchy (open for new payers)
+  • Exceptions for rare error paths
+  • RAII + virtual destructor → leak-free under all paths
+
+Ability to extend without touching working code outweighs
+the micro-benchmark advantage of a closed switch.

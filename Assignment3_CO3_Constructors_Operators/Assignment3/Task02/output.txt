@@ -1,0 +1,5 @@
+===== Task 02 : Deep Copy (Rule of Three) =====
+
+p1: Ibuprofen ORS
+p2: Ibuprofen ORS
+p3: Ibuprofen ORS

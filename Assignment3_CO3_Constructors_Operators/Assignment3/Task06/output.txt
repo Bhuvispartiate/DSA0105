@@ -1,0 +1,5 @@
+===== Task 06 : Text Class (Rule of Three) =====
+
+a + b = Hello World
+a == b ? false
+c == "Hello World" ? true

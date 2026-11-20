@@ -1,0 +1,10 @@
+===== Task 02 : Constants Demo =====
+
+Zone::Inner  base fare : 1000 paise
+Zone::Middle base fare : 2000 paise
+Zone::Outer  base fare : 3000 paise
+
+Peak surcharge         : 20 %
+Minimum balance        : 5000 paise
+Student concession     : 25 %
+Senior concession      : 30 %

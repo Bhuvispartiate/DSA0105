@@ -1,0 +1,7 @@
+===== Task 07 : SmartCard Class =====
+
+Initial balance : 10000 paise
+Journey of 3600 paise accepted.
+New balance     : 6400 paise
+
+Attempt fare 2000 with balance 6400 → Refused (would go below Rs 50)

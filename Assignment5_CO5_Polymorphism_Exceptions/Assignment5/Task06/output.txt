@@ -1,0 +1,6 @@
+===== Task 06 : Validate Polymorphic Billing =====
+
+OP | Ravi | Rs 1700.00
+IP | Priya | Rs 47500.00
+
+Day total = Rs 49200.00  (expected 49200)

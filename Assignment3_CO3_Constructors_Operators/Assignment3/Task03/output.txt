@@ -1,0 +1,8 @@
+===== Task 03 : Dynamic Constructor / Destructor =====
+
+Event opened (5x10)
+Book seat (2,3): OK
+Book seat (2,3) again: Fail
+Event closed (5x10)
+
+Block ended – resources released.

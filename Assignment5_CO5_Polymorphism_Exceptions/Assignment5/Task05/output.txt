@@ -1,0 +1,9 @@
+===== Task 05 : Recovery & Rethrow =====
+
++main
++f
+settle 5000/10000 = 5000
+settle 15000/10000 = audit: exceeds cover
+~f
+caught: exceeds cover
+~main

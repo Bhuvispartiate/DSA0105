@@ -1,0 +1,9 @@
+===== Task 07 : Complex Number / Impedance =====
+
+Z1 = 30 + 40j
+Magnitude = 50
+
+Series  Z1+Z2 = 30 + 10j
+Parallel      = 27 - 39j
+
+Caught: division by zero impedance

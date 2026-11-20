@@ -1,0 +1,7 @@
+===== Task 08 : Safe Input / Formatted Output =====
+
+Validated hour (0-23) : 9
+Peak hour?            : true
+
+Fare Rs 36.05
+Fare Rs 0.05

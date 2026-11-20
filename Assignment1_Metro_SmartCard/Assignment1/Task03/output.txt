@@ -1,0 +1,13 @@
+===== Task 03 : Data Type Choices =====
+
+Value            Type          Size (bytes)   Reason
+----------------------------------------------------------------
+Fare / balance   long long     8             Exact arithmetic, no floating error
+Zone index       enum class    4             Small discrete set
+Hour (0-23)      int           4             Simple arithmetic
+Peak flag        bool          1             True / false only
+Journey count    long long     8             Supports millions of journeys
+Concession %     int           4             Small integer percentage
+
+INT_MAX          = 2147483647
+Why integer paise? Floating-point cannot represent 0.10 exactly.

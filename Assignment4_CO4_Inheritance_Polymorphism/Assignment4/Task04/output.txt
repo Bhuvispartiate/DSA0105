@@ -1,0 +1,13 @@
+===== Task 04 : Virtual Functions & Destructor =====
+
+SeniorAccount created
+rate through Account* : 4
+~SeniorAccount
+~Account
+
+Slicing demonstration:
+SeniorAccount created
+sliced rate : 3.5
+~Account
+~SeniorAccount
+~Account

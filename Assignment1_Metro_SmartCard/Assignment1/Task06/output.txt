@@ -1,0 +1,11 @@
+===== Task 06 : Control Structures =====
+
+Inner  off-peak : 1000 paise
+Middle off-peak : 2000 paise
+Outer  off-peak : 3000 paise
+Outer  peak     : 3600 paise
+
+Balance = 10000, Fare = 3600
+canTravel? true
+Balance = 5400, Fare = 2000
+canTravel? false

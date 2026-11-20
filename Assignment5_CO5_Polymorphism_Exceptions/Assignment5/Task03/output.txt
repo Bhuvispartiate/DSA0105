@@ -1,0 +1,5 @@
+===== Task 03 : Payer Hierarchy =====
+
+SelfPay covers Rs 0  (patient pays 20000)
+Insurance covers Rs 15000  (patient pays 5000)
+GovtScheme covers Rs 10000  (patient pays 10000)

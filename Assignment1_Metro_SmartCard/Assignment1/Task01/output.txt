@@ -1,0 +1,13 @@
+===== Task 01 : Object Identification Demo =====
+
+Card ID      : NM-2025-001
+Balance      : 15000 paise
+Can travel (fare 3000)? Yes
+Journey accepted. New balance : 12000 paise
+
+Objects identified in the system:
+  1. SmartCard   - owns balance and enforces rules
+  2. Passenger   - carries category for concession
+  3. Journey     - entry/exit zone + time
+  4. Zone        - Inner / Middle / Outer
+  5. FareTable   - holds all monetary constants

@@ -1,0 +1,10 @@
+===== Task 04 : Implicit Conversion Demo =====
+
+7 / 2  (integer)          = 3
+7 / 2  (with cast)        = 3.5
+'A' + 2                   = C
+ch + 1 (promoted to int)  = 68
+bool(5)                   = true
+(-1 < 1u)                 = false
+
+Lesson: always use explicit casts for clarity and safety.

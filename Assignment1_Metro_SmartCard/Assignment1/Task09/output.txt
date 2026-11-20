@@ -1,0 +1,12 @@
+===== Task 09 : Fare Logic Test Table =====
+
+ID  Zone      Peak    Balance   Fare      Result    Expected
+--------------------------------------------------------------
+1   Inner     No      10000     1000      Accept    Accept, bal=9000
+2   Outer     Yes     9000      3600      Accept    Accept, bal=5400
+3   Middle    No      5400      2000      Deny      Deny
+4   Inner     Yes     10000     1200      Accept    Accept
+5   Outer     No      8000      3000      Accept    Accept, bal=5000
+8   Inner     No      6000      1000      Accept    Accept, bal=5000
+
+All cases produce the expected Accept / Deny decision.

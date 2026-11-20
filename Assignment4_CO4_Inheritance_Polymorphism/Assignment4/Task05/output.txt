@@ -1,0 +1,6 @@
+===== Task 05 : this Pointer & Method Chaining =====
+
+  Notebook  120
+  Pen Set  80
+  Bag  160
+Total (after discount): 324.00

@@ -1,0 +1,14 @@
+===== Task 02 : Virtual Bases (Diamond) =====
+
+Person(Ananya)
+Student
+Staff
+TeachingAssistant
+
+Identity: Ananya (ID 501)
+
+Destruction order:
+~TeachingAssistant
+~Staff
+~Student
+~Person

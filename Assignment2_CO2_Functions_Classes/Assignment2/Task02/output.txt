@@ -1,0 +1,7 @@
+===== Q2 : Return by Reference =====
+
+Original marks: 78 92 85 67 91 
+Highest mark  : 92
+After +2      : 78 94 85 67 91 
+
+Note: returning a reference to a local variable is undefined behaviour.

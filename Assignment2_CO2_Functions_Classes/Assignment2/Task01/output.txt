@@ -1,0 +1,10 @@
+===== Q1 : Call by Value / Reference / Pointer =====
+
+After 10% concession:
+  Call by value     : 50000 (unchanged)
+  Call by reference : 45000
+  Call by pointer   : 45000
+
+1 12 13
+1 100
+16 13 6 

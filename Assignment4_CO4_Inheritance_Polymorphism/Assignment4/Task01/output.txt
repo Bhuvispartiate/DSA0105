@@ -1,0 +1,5 @@
+===== Task 01 : Staff Hierarchy =====
+
+Dr. Rao (ID 101)  Pay = 79000
+Ravi (ID 202)  Pay = 35500
+Priya (ID 303)  Pay = 32000
