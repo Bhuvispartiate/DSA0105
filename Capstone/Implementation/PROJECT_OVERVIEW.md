@@ -1,5 +1,9 @@
 # SecureVault: System Architecture and Technical Implementation
 
+**Student:** Bhuvanesh H  
+**Register Number:** 192524027  
+**Academic Year:** 2025–26  
+
 A technical reference guide detailing the concepts, architecture, module divisions, and cryptographic implementations of the SecureVault authenticated archiving system.
 
 ---

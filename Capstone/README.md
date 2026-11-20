@@ -1,5 +1,9 @@
 # SecureVault — C++ Capstone Project
 
+**Student:** Bhuvanesh H  
+**Register Number:** 192524027  
+**Academic Year:** 2025–26  
+
 A standalone C++17 authenticated file packaging, encryption, and archiving system with a custom `.vault` binary format, a native multi-threaded C++ HTTP backend server, and an interactive HTML/CSS/JS Web UI.
 
 ---

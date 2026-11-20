@@ -1,7 +1,7 @@
 # OOP with C++ | Assignment 1 – Namma Metro Smart-Card System
 
-**Student:** Rashmi Naurene  
-**Register Number:** 192521357  
+**Student:** Bhuvanesh H  
+**Register Number:** 192524027  
 **Academic Year:** 2025–26  
 **Total Marks:** 50  
 
